@@ -13,8 +13,10 @@ Learning Low Level Programming WIth C language with C language
 * Command Line Arguments
 * Data type and structure
 * Recursion
+* Recursive Functions
 * Header files
 * Static Libriaries
 * Preprocessing
 * Compilation process
 * Memory Allocation
+* Sorting Algorithms
