@@ -27,16 +27,3 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 * [0x14-bit_manipulation](0x14-bit_manipulation)
 * [0x15-file_io](0x15-file_io)
-
-
-- more projects are coming soon!!
-- I am on my way to be the best software engineer that I  can possibly  be!!
-
-## Author 
-+ [Firdaus H. Salim](linktr.ee/firdaus_h_salim)
-
----
-
-## WARNING!!
-- This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
-- This repo may contain some errors. If you notice any, please add a pull request.
